@@ -5,3 +5,4 @@
 <div>Prodi: sistem informasi</div>
 
 * Praktikum 1: Pengenalan Variabel `praktikum.py`
+* Praktikum 2: Operator `praktikum.py`
