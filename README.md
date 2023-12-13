@@ -1,4 +1,4 @@
-# praktikum pengantar pemograman
+# Praktikum Pengantar Pemograman
 
 <h1>Nama : Muh. Yusuf Dzaky</h1>
 <h1>Nim  : 231031050</h1>
